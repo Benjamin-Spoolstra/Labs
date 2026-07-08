@@ -19,7 +19,7 @@ This is a collection of my writeups and notes from hands-on labs and rooms acros
 
 Each writeup follows this general structure:
 
-\`\`\`
+```
 ## Lab/Room Name
 **Platform:** ...  
 **Category:** ...  
@@ -33,7 +33,7 @@ Step-by-step walkthrough.
 
 ### Key Takeaways
 Notable techniques, tools, or concepts learned.
-\`\`\`
+```
 
 ---
 
