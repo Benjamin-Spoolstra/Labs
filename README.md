@@ -11,7 +11,7 @@ This is a collection of my writeups and notes from hands-on labs and rooms acros
 | **TryHackMe** | General / Guided Learning Paths | [tryhackme.com](https://tryhackme.com) |
 | **HackTheBox** | Offensive Security / Machines | [hackthebox.com](https://hackthebox.com) |
 | **PortSwigger** | Web App Security | [portswigger.net](https://portswigger.net) |
-| **LetsDefend** | Blue Team / SOC Analysis | [letsdefend.io](https://letsdefend.io) |
+| **HackSmarter** | Blue Team / SOC Analysis | [hacksmarter.org](https://www.hacksmarter.org/) |
 
 ---
 
